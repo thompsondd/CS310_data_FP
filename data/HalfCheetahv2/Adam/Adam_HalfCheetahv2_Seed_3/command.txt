@@ -1,0 +1,1 @@
+/opt/conda/lib/python3.7/site-packages/ipykernel_launcher.py -f /tmp/tmpzs47d1pa.json --HistoryManager.hist_file=:memory:
