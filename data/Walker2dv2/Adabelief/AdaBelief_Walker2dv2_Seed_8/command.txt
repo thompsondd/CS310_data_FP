@@ -1,0 +1,1 @@
+/usr/local/lib/python3.8/dist-packages/ipykernel_launcher.py -f /root/.local/share/jupyter/runtime/kernel-ca0fa8fb-33d8-493e-93cb-757805f1a791.json
